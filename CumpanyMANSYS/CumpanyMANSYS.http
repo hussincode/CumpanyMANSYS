@@ -1,0 +1,6 @@
+@CumpanyMANSYS_HostAddress = http://localhost:5191
+
+GET {{CumpanyMANSYS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
